@@ -1,13 +1,13 @@
+<cneter>FPY_IERG</center>
 # Deep Learning Enabled Semantic Communication Systems
-
-<center>Huiqiang Xie, Zhijin Qin, Geoffrey Ye Li, and Biing-Hwang Juang </center>
 
 This is the implementation of  Deep learning enabled semantic communication systems.
 
 ## Requirements
 ```
+pyenv in 3.7.9
 tensorflow-gpu==2.1.0
-bert4keras==0.4.2
+bert4keras==0.5.2
 ```
 
 ## Preprocess

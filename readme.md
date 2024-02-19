@@ -62,13 +62,3 @@ python evaluation.py --bs=256 --test-snr=6 --channel=AWGN --checkpoint-path=./ch
 ### Notes
 + If you want to compute the sentence similarity, please download the BERT model.
 
-## Bibtex
-```bitex
-@article{xie2021deep,
-  author={H. {Xie} and Z. {Qin} and G. Y. {Li} and B. -H. {Juang}},
-  journal={IEEE Transactions on Signal Processing}, 
-  title={Deep Learning Enabled Semantic Communication Systems}, 
-  year={Apr. 2021},
-  volume={69},
-  pages={2663-2675}}
-```
